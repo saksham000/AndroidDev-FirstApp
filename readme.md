@@ -1,1 +1,1 @@
-this project is just for testing purpose
+this project is completed.
